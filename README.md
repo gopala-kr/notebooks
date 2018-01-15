@@ -1,8 +1,9 @@
 
-> **this repo contains collection of jupyter notebooks to practice ML/DL/DL/python-scientific-tools(my own reference)**
+> **this repo contains collection of jupyter notebooks to practice ML/DL/python-scientific-tools(my own reference)**
 
-much of the collective work has already been done  in below repos
+------------
 
+**reference**
 
 * [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793) by Wes McKinney
 * [PyCon 2015 Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_pycon2015) by Jake VanderPlas
@@ -23,7 +24,5 @@ much of the collective work has already been done  in below repos
 * [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
 * [handson-ml ](https://github.com/ageron/handson-ml)
 * [dive-into-machine-learning](http://hangtwenty.github.io/dive-into-machine-learning/)
-* [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-* [pydata-book](https://github.com/wesm/pydata-book/tree/2nd-edition/examples)
 * [ipython-notebooks](https://github.com/jdwittenauer/ipython-notebooks)
 * [scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos)
