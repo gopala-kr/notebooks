@@ -1,5 +1,5 @@
 
-> **this repo contains collection of jupyter notebooks to practice ML/DL/python-scientific-tools(my own reference)**
+> **this repo contains collection of jupyter/ipython notebooks for industrial practice on ML/DL/DS/python-scientific-tools(my own reference)**
 
 ------------
 
