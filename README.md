@@ -1,5 +1,5 @@
 
-> **this repo contains collection of jupyter/ipython notebooks for industrial practice on ML/DL/DS/python-scientific-tools(my own reference)**
+> **this repo contains collection of jupyter/ipython notebooks for industrial practice on ML/DL/DS/python-scientific-tools/various command lines(my own reference)**
 
 ------------
 
@@ -26,3 +26,6 @@
 * [dive-into-machine-learning](http://hangtwenty.github.io/dive-into-machine-learning/)
 * [ipython-notebooks](https://github.com/jdwittenauer/ipython-notebooks)
 * [scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos)
+
+
+------------------------
