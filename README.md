@@ -3,7 +3,8 @@
 ## Notebooks    [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gopala-kr/notebooks/master)
 
 
-Collection of practical handson jupyter notebooks on bigdata/ml/dl/ds/python-scientific-tools/visualization/various command lines
+
+> Collection of practical handson jupyter notebooks on bigdata/ml/dl/ds/python-scientific-tools/visualization/various command lines
 
 Play with these notebooks by launching live server on [binder](https://mybinder.org) 
 
