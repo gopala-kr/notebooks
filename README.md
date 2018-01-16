@@ -5,7 +5,7 @@
 
 Collection of practical handson jupyter notebooks on bigdata/ml/dl/ds/python-scientific-tools/visualization/various command lines
 
-Play with these notebooks live on [mybinder.org](https://hub.mybinder.org/user/gopala-kr-notebooks-b2vuys2v/tree#notebooks) 
+Play with these notebooks by launching live server on [binder](https://mybinder.org) 
 
 
 ----------------
