@@ -3,9 +3,10 @@
 ## Notebooks    [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gopala-kr/notebooks/master)
 
 
-collection of practical handson jupyter notebooks on bigdata/ml/dl/ds/python-scientific-tools/various command lines
+Collection of practical handson jupyter notebooks on bigdata/ml/dl/ds/python-scientific-tools/various command lines
 
-Play with these notebooks on [mybinder.org](https://hub.mybinder.org/user/gopala-kr-notebooks-b2vuys2v/tree#notebooks)
+Play with these notebooks live on [mybinder.org](https://hub.mybinder.org/user/gopala-kr-notebooks-b2vuys2v/tree#notebooks) 
+
 
 ----------------
 
