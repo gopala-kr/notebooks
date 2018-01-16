@@ -1,5 +1,51 @@
 
-> **this repo contains collection of jupyter/ipython notebooks for industrial practice on ML/DL/DS/python-scientific-tools/various command lines(my own reference)**
+
+collection of practical handson jupyter notebooks on bigdata/ml/dl/ds/python-scientific-tools/various command lines
+
+----------------
+
+* [deep-learning](#deep-learning)
+    * [tensorflow](#tensor-flow-tutorials)
+    * [theano](#theano-tutorials)
+    * [keras](#keras-tutorials)
+    * [caffe](#deep-learning-misc)
+    * [DL notebooks](#deep-learning-with-python-notebooks)
+* [scikit-learn](#scikit-learn)
+     * [scikit learn videos](#scikit-learn-videos)
+* [statistical-inference-scipy](#statistical-inference-scipy)
+* [pandas](#pandas)
+* [matplotlib](#matplotlib)
+* [numpy](#numpy)
+* [python-data](#python-data)
+* [kaggle-and-business-analyses](#kaggle-and-business-analyses)
+* [spark](#spark)
+* [mapreduce-python](#mapreduce-python)
+* [amazon web services](#aws)
+* [command lines](#commands)
+* [DA and ML projects](#projects)
+* [PPBMH](#ppbmh)
+* [Python Data Science Handbook](#PythonDataScienceHandbook)
+* [Handson ML](#handson-ml)
+* [ipython notebooks](#ipython-notebooks)
+* [numerical linear algebra](#numerical-linear-algebra)
+* [Python scientific stack](#scientific-python-lectures)
+* [python machine learning book](#python-machine-learning-book)
+
+---------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ------------
 
