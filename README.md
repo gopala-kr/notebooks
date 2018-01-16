@@ -30,6 +30,8 @@ collection of practical handson jupyter notebooks on bigdata/ml/dl/ds/python-sci
 * [numerical linear algebra](#numerical-linear-algebra)
 * [Python scientific stack](#scientific-python-lectures)
 * [python machine learning book](#python-machine-learning-book)
+* [Most viewed notebooks](http://nb.bianp.net/sort/views/)
+* [Interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
 ---------------------
 
