@@ -6,7 +6,7 @@
 
 > Collection of practical handson jupyter notebooks on bigdata/ml/dl/ds/python-scientific-tools/visualization/various command lines
 
-Play with these notebooks by launching live server on [binder](https://mybinder.org) 
+Play with these notebooks by launching a live server on [binder](https://mybinder.org) 
 
 
 ----------------
