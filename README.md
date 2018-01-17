@@ -147,7 +147,7 @@ Congrats! You are ready to learn Machine Learning, hands on! happy learning!!
 
 **reference**
 
-`* [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793) by Wes McKinney
+* [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793) by Wes McKinney
 * [PyCon 2015 Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_pycon2015) by Jake VanderPlas
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) by Jake VanderPlas
 * [Parallel Machine Learning with scikit-learn and IPython](https://github.com/ogrisel/parallel_ml_tutorial) by Olivier Grisel
@@ -167,7 +167,7 @@ Congrats! You are ready to learn Machine Learning, hands on! happy learning!!
 * [handson-ml ](https://github.com/ageron/handson-ml)
 * [dive-into-machine-learning](http://hangtwenty.github.io/dive-into-machine-learning/)
 * [ipython-notebooks](https://github.com/jdwittenauer/ipython-notebooks)
-* [scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos)`
+* [scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos)
 
 
 ------------------------
