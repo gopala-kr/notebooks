@@ -36,7 +36,7 @@ Play with these notebooks by launching a live server on [binder](https://mybinde
 * [ipython notebooks](#ipython-notebooks)
 * [numerical linear algebra](#numerical-linear-algebra)
 * [Python scientific stack](#scientific-python-lectures)
-* [python machine learning book](#python-machine-learning-book)
+* [python machine learning book](https://github.com/gopala-kr/notebooks/tree/master/python-machine-learning-book)
 * [Most viewed notebooks](http://nb.bianp.net/sort/views/)
 * [Interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * [Data Visualization for All - gitbook](https://www.datavizforall.org/)
