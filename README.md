@@ -21,7 +21,7 @@ Play with these notebooks by launching a live server on [binder](https://mybinde
      * [scikit learn videos](#scikit-learn-videos)
 * [statistical-inference-scipy](#statistical-inference-scipy)
 * [pandas](#pandas)
-* [matplotlib](#matplotlib)
+* [matplotlib](https://github.com/gopala-kr/notebooks/tree/master/matplotlib)
 * [numpy](#numpy)
 * [python-data](#python-data)
 * [kaggle-and-business-analyses](#kaggle-and-business-analyses)
