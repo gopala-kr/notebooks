@@ -34,18 +34,18 @@ If you choose to use Anaconda, read the next section, or else jump to the [Using
 ## Using Anaconda
 When using Anaconda, you can optionally create an isolated Python environment dedicated to this project. This is recommended as it makes it possible to have a different environment for each project (e.g. one for this project), with potentially different libraries and library versions:
 
-    $ conda create -n mlbook python=3.5 anaconda
-    $ source activate mlbook
+    $ conda create -n notebooks python=3.5 anaconda
+    $ source activate notebooks
 
-This creates a fresh Python 3.5 environment called `mlbook` (you can change the name if you want to), and it activates it. This environment contains all the scientific libraries that come with Anaconda. This includes all the libraries we will need (NumPy, Matplotlib, Pandas, Jupyter and a few others), except for TensorFlow, so let's install it:
+This creates a fresh Python 3.5 environment called `notebooks` (you can change the name if you want to), and it activates it. This environment contains all the scientific libraries that come with Anaconda. This includes all the libraries we will need (NumPy, Matplotlib, Pandas, Jupyter and a few others), except for TensorFlow, so let's install it:
 
-    $ conda install -n mlbook -c conda-forge tensorflow=1.4.0
+    $ conda install -n notebooks -c conda-forge tensorflow=1.4.0
 
-This installs TensorFlow 1.4.0 in the `mlbook` environment (fetching it from the `conda-forge` repository). If you chose not to create an `mlbook` environment, then just remove the `-n mlbook` option.
+This installs TensorFlow 1.4.0 in the `notebooks` environment (fetching it from the `conda-forge` repository). If you chose not to create an `notebooks` environment, then just remove the `-n notebooks` option.
 
 Next, you can optionally install Jupyter extensions. These are useful to have nice tables of contents in the notebooks, but they are not required.
 
-    $ conda install -n mlbook -c conda-forge jupyter_contrib_nbextensions
+    $ conda install -n notebooks -c conda-forge jupyter_contrib_nbextensions
 
 You are all set! Next, jump to the [Starting Jupyter](#starting-jupyter) section.
 
