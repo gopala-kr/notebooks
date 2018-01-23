@@ -5,7 +5,7 @@
 
 
 
-> Collection of practical handson jupyter notebooks on bigdata/ml/dl/rl/ds/python-scientific-tools/viz-lib/various command lines, All this stuff is collected from the github which was not well maintained. I will soon reorganize this to reflect recency.
+> Collection of practical handson jupyter notebooks on bigdata/ml/dl/rl/ds/python-scientific-tools/viz-lib/various command lines. All this stuff is collected from the github which was not well maintained. I will soon reorganize this to reflect recency.
 
 Play with these notebooks by launching a live server on [binder](https://mybinder.org) 
 
