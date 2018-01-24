@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+
+\bibitem{fawcett2006introduction}
+Tom Fawcett.
+\newblock An introduction to roc analysis.
+\newblock {\em Pattern recognition letters}, 27(8):861--874, 2006.
+
+\bibitem{goutte2005probabilistic}
+Cyril Goutte and Eric Gaussier.
+\newblock A probabilistic interpretation of precision, recall and f-score, with
+  implication for evaluation.
+\newblock In {\em Advances in Information Retrieval}, pages 345--359. Springer,
+  2005.
+
+\bibitem{matthews1975comparison}
+Brian~W Matthews.
+\newblock Comparison of the predicted and observed secondary structure of t4
+  phage lysozyme.
+\newblock {\em Biochimica et Biophysica Acta (BBA)-Protein Structure},
+  405(2):442--451, 1975.
+
+\end{thebibliography}
