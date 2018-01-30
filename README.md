@@ -41,6 +41,7 @@ Play with these notebooks by launching a live server on [binder](https://mybinde
 * [Most viewed notebooks](http://nb.bianp.net/sort/views/)
 * [Interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * [Data Visualization for All - gitbook](https://www.datavizforall.org/)
+* [Online-Courses](https://github.com/gopala-kr/notebooks/tree/master/Online-Courses)
 
 ---------------------
 
