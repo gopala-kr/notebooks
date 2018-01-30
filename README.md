@@ -33,7 +33,7 @@ Play with these notebooks by launching a live server on [binder](https://mybinde
 * [DA and ML projects](#projects)
 * [PPBMH](#ppbmh)
 * [Python Data Science Handbook](#PythonDataScienceHandbook)
-* [Handson ML](#handson-ml)
+* [Handson ML](https://github.com/gopala-kr/notebooks/tree/master/handson-ml)
 * [ipython notebooks](#ipython-notebooks)
 * [numerical linear algebra](#numerical-linear-algebra)
 * [Python scientific stack](#scientific-python-lectures)
