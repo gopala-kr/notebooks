@@ -12,12 +12,13 @@ Play with these notebooks by launching a live server on [binder](https://mybinde
 
 ----------------
 
-* [deep-learning](#deep-learning)
+* [deep-learning](https://github.com/gopala-kr/notebooks/tree/master/deep-learning)
     * [tensorflow](#tensor-flow-tutorials)
     * [theano](#theano-tutorials)
     * [keras](#keras-tutorials)
     * [caffe](#deep-learning-misc)
     * [DL notebooks](#deep-learning-with-python-notebooks)
+    * []()
 * [scikit-learn](#scikit-learn)
      * [scikit learn videos](#scikit-learn-videos)
 * [statistical-inference-scipy](#statistical-inference-scipy)
