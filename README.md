@@ -42,7 +42,7 @@ Play with these notebooks by launching a live server on [binder](https://mybinde
 * [Interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * [Data Visualization for All - gitbook](https://www.datavizforall.org/)
 * [Online-Courses](https://github.com/gopala-kr/notebooks/tree/master/Online-Courses)
-* [python-machine-learning-book][1st edition](https://github.com/gopala-kr/notebooks/tree/master/python-machine-learning-book)[2nd edition](https://github.com/gopala-kr/notebooks/tree/master/python-machine-learning-book-2nd-edition)
+* python-machine-learning-book [[1st edition](https://github.com/gopala-kr/notebooks/tree/master/python-machine-learning-book)][[2nd edition](https://github.com/gopala-kr/notebooks/tree/master/python-machine-learning-book-2nd-edition)]
 * [reinforcement-learning](https://github.com/gopala-kr/notebooks/tree/master/reinforcement-learning)
 * [Data-Analysis](https://github.com/gopala-kr/notebooks/tree/master/Data-Analysis)
 
