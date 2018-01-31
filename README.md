@@ -19,7 +19,7 @@ Play with these notebooks by launching a live server on [binder](https://mybinde
     * [caffe](#deep-learning-misc)
     * [DL notebooks](#deep-learning-with-python-notebooks)
 * [Deep-Learning-Boot-Camp](https://github.com/gopala-kr/notebooks/tree/master/Deep-Learning-Boot-Camp)
-* []()
+* [DeepLearningForNLPInPytorch](https://github.com/gopala-kr/notebooks/tree/master/DeepLearningForNLPInPytorch)
 * []()
 * []()
 * []()
