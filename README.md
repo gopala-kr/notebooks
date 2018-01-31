@@ -26,6 +26,7 @@ Play with these notebooks by launching a live server on [binder](https://mybinde
 * [deep-learning-with-python-notebooks](https://github.com/gopala-kr/notebooks/tree/master/deep-learning-with-python-notebooks)
 * [scikit-learn](#scikit-learn)
      * [scikit learn videos](#scikit-learn-videos)
+     * [scikit-learn-official-examples](https://github.com/gopala-kr/notebooks/tree/master/scikit-learn-official-examples)
 * [statistical-inference-scipy](#statistical-inference-scipy)
 * [pandas](https://github.com/gopala-kr/notebooks/tree/master/pandas)
 * [matplotlib](https://github.com/gopala-kr/notebooks/tree/master/matplotlib)
