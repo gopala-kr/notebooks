@@ -23,7 +23,7 @@ Play with these notebooks by launching a live server on [binder](https://mybinde
 * [DeepLearningFrameworks](https://github.com/gopala-kr/notebooks/tree/master/DeepLearningFrameworks)
 * [DeepNLP-models-Pytorch](https://github.com/gopala-kr/notebooks/tree/master/DeepNLP-models-Pytorch)
 * [deep-learning-keras-tensorflow](https://github.com/gopala-kr/notebooks/tree/master/deep-learning-keras-tensorflow)
-* []()
+* [deep-learning-with-python-notebooks](https://github.com/gopala-kr/notebooks/tree/master/deep-learning-with-python-notebooks)
 * [scikit-learn](#scikit-learn)
      * [scikit learn videos](#scikit-learn-videos)
 * [statistical-inference-scipy](#statistical-inference-scipy)
