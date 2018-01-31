@@ -21,7 +21,7 @@ Play with these notebooks by launching a live server on [binder](https://mybinde
 * [Deep-Learning-Boot-Camp](https://github.com/gopala-kr/notebooks/tree/master/Deep-Learning-Boot-Camp)
 * [DeepLearningForNLPInPytorch](https://github.com/gopala-kr/notebooks/tree/master/DeepLearningForNLPInPytorch)
 * [DeepLearningFrameworks](https://github.com/gopala-kr/notebooks/tree/master/DeepLearningFrameworks)
-* []()
+* [DeepNLP-models-Pytorch](https://github.com/gopala-kr/notebooks/tree/master/DeepNLP-models-Pytorch)
 * []()
 * []()
 * [scikit-learn](#scikit-learn)
