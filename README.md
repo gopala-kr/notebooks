@@ -53,6 +53,7 @@ Play with these notebooks by launching a live server on [binder](https://mybinde
 * [reinforcement-learning](https://github.com/gopala-kr/notebooks/tree/master/reinforcement-learning)
 * [Data-Analysis](https://github.com/gopala-kr/notebooks/tree/master/Data-Analysis)
 * [tests](https://github.com/gopala-kr/notebooks/tree/master/tests)
+* [introtodeeplearning_labs_MIT](https://github.com/aamini/introtodeeplearning_labs)
 
 ---------------------
 
