@@ -1,5 +1,5 @@
 
-    #environment setup
+    # pip environment setup
     !pip install watermark
     !pip install nltk
     !pip install theano
