@@ -7,6 +7,9 @@
     !pip install chainer
     !pip install seaborn
     !pip install keras
+    !pip install tensorflow-gpu
+    !pip install scikit-image
+    !pip install tqdm
       
     #load watermark
     %load_ext watermark
