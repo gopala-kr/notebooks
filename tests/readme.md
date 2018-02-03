@@ -12,7 +12,8 @@
     !pip install tqdm
     !pip install torch
     !pip install tflearn
-    !pip install h5py 
+    !pip install h5py
+    !pip install gensim
       
     #load watermark
     %load_ext watermark
