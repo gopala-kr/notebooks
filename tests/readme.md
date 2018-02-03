@@ -10,6 +10,7 @@
     !pip install tensorflow-gpu
     !pip install scikit-image
     !pip install tqdm
+    !pip install torch
       
     #load watermark
     %load_ext watermark
