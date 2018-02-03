@@ -11,7 +11,8 @@
     !pip install scikit-image
     !pip install tqdm
     !pip install torch
+    !pip install tflearn
       
     #load watermark
     %load_ext watermark
-    %watermark -a 'Gopala KR' -u -d -v -p watermark,numpy,pandas,matplotlib,nltk,sklearn,tensorflow,theano,mxnet,chainer,seaborn,keras
+    %watermark -a 'Gopala KR' -u -d -v -p watermark,numpy,pandas,matplotlib,nltk,sklearn,tensorflow,theano,mxnet,chainer,seaborn,keras,tflearn
