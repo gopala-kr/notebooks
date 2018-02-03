@@ -12,6 +12,7 @@
     !pip install tqdm
     !pip install torch
     !pip install tflearn
+    !pip install h5py 
       
     #load watermark
     %load_ext watermark
