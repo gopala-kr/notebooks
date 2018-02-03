@@ -55,6 +55,7 @@ Play with these notebooks by launching a live server on [binder](https://mybinde
 * [tests](https://github.com/gopala-kr/notebooks/tree/master/tests)
 * [introtodeeplearning_labs_MIT](https://github.com/aamini/introtodeeplearning_labs)
 * [newbooks](https://github.com/gopala-kr/notebooks/tree/master/0-newbooks)
+* [algorithms_in_ipython_notebooks](https://github.com/gopala-kr/notebooks/tree/master/algorithms_in_ipython_notebooks)
 
 ---------------------
 
