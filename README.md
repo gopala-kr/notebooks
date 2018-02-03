@@ -57,6 +57,7 @@ Play with these notebooks by launching a live server on [binder](https://mybinde
 * [newbooks](https://github.com/gopala-kr/notebooks/tree/master/0-newbooks)
 * [algorithms_in_ipython_notebooks](https://github.com/gopala-kr/notebooks/tree/master/algorithms_in_ipython_notebooks)
 * [PyTorch-Tutorial](https://github.com/gopala-kr/notebooks/tree/master/PyTorch-Tutorial)
+* [mltrain-nips-2017](https://github.com/gopala-kr/notebooks/tree/master/mltrain-nips-2017)
 
 ---------------------
 
