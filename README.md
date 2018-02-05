@@ -9,7 +9,7 @@
 
 Play with these notebooks by launching a live server on [binder](https://mybinder.org)
 
-** to speedup training run the `notebooks` on Google colab**
+**to speedup training run the `notebooks` on Google colab**
 * Download the `notebooks` from this repo
 * Goto [Colab](https://colab.research.google.com)
 * Goto File-->Upload Notebook . Upload the notebooks(or clone the repo to google drive)
