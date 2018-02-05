@@ -9,6 +9,13 @@
 
 Play with these notebooks by launching a live server on [binder](https://mybinder.org) or [google-colabs](https://research.google.com/colaboratory/unregistered.html) [to speedup training on GPU's)
 
+** to speedup training run the `notebooks` on Google colab**
+* Download the `notebooks` from this repo
+* Goto [Colab](https://colab.research.google.com)
+* Goto File-->Upload Notebook . Upload the notebooks(or clone the repo to google drive)
+* Goto menu Runtime-->Change runtime and select HardWare accelerator GPU (Free Nvidia K80 GPU from google, it can run continues for 12hrs)
+
+To learn more about colab [Click Here](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
 
 ----------------
 
