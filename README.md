@@ -17,6 +17,8 @@ Play with these notebooks by launching a live server on [binder](https://mybinde
 
 To learn more about colab [Click Here](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
 
+other paid options: [floydhub](https://www.floydhub.com/) [paperspace](https://www.paperspace.com/), [crestle](https://www.crestle.com/), [aws](https://aws.amazon.com/), [gcp](https://cloud.google.com/)
+
 ----------------
 
 * [deep-learning](https://github.com/gopala-kr/notebooks/tree/master/deep-learning)
