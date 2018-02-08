@@ -15,9 +15,9 @@ Play with these notebooks by launching a live server on [binder](https://mybinde
 * goto File-->Upload Notebook . Upload the notebooks(or clone the repo to google drive)
 * goto menu Runtime-->Change runtime and select HardWare accelerator GPU (Free Nvidia K80 GPU from google, it can run continues for 12hrs)
 
-To learn more about colab [Click Here](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
+To learn more about [colab](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
 
-other paid options: [floydhub](https://www.floydhub.com/) [paperspace](https://www.paperspace.com/), [crestle](https://www.crestle.com/), [aws](https://aws.amazon.com/), [gcp](https://cloud.google.com/)
+> Other paid options: [floydhub](https://www.floydhub.com/), [paperspace](https://www.paperspace.com/), [crestle](https://www.crestle.com/), [aws](https://aws.amazon.com/), [gcp](https://cloud.google.com/)
 
 ----------------
 
