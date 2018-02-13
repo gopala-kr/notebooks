@@ -15,6 +15,7 @@
     !pip install h5py
     !pip install gensim
     !pip install bokeh
+    !pip install prettytable
       
     #load watermark
     %load_ext watermark
