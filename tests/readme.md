@@ -19,6 +19,9 @@
     !pip install sklearn
     !pip install scipy
     !pip install numpy
+    !pip install matplotlib
+    !pip install tensorflow
+    
       
     #load watermark
     %load_ext watermark
