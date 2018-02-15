@@ -16,6 +16,9 @@
     !pip install gensim
     !pip install bokeh
     !pip install prettytable
+    !pip install sklearn
+    !pip install scipy
+    !pip install numpy
       
     #load watermark
     %load_ext watermark
