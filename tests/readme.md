@@ -18,10 +18,15 @@
     !pip install prettytable
     !pip install sklearn
     !pip install scipy
-    !pip install numpy
+    !pip install numpy --upgrade
     !pip install matplotlib
     !pip install tensorflow
-    
+    !pip install BeautifulSoup
+    !pip install tables 
+    !pip install feedparser
+    !pip install xlrd
+    !pip install openpyxl
+    !pip install bs4
       
     #load watermark
     %load_ext watermark
