@@ -27,7 +27,7 @@
     !pip install xlrd
     !pip install openpyxl
     !pip install bs4
-    
+    !pip install whoosh
       
     #load watermark
     %load_ext watermark
