@@ -203,3 +203,7 @@ Congrats! You are ready to learn Machine Learning, hands on! happy learning!!
 
 
 ------------------------
+
+## Maintainer
+
+Gopala KR / @gopala-kr
