@@ -177,7 +177,7 @@ Congrats! You are ready to learn Machine Learning, hands on! happy learning!!
 
 ------------
 
-**reference**
+**Credits**
 
 * [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793) by Wes McKinney
 * [PyCon 2015 Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_pycon2015) by Jake VanderPlas
