@@ -1,6 +1,6 @@
 
 
-## Notebooks    [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gopala-kr/notebooks/master)  [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/gopala-kr/libraries/notebooks)
+## Notebooks    [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gopala-kr/notebooks/master)  [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/gopala-kr/libraries)
 
 
 
